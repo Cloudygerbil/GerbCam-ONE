@@ -2,9 +2,8 @@
 "U1","1","LM2596S-5","","","","Package_TO_SOT_SMD:TO-263-5_TabPin3","http://www.ti.com/lit/ds/symlink/lm2596.pdf"
 "L1","1","33 µH","","","","Inductor_THT:Inductor_Radial_D;15_P;10",""
 "J2","1","Screw_Terminal_2_P5.00mm","","","","TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal",""
-"H1,H2,H3,H4","4","MountingHole_M3","","","","MountingHole:MountingHole_3.2mm_M3",""
 "D1","1","SR503","","","","Diode_THT:D_DO-201AD_P15.24mm_Horizontal",""
 "C2","1","220 µF","","","","Capacitor_THT:CP_Radial_D8.0mm_P3.50mm",""
 "C1","1","680 µF","","","","Capacitor_THT:CP_Radial_D8.0mm_P3.50mm",""
-"BT1,BT2,BT3,BT4","4","Battery","","","","Battery:BatteryHolder_Keystone_2462_2xAA",""
+"BT1,BT2,BT3,BT4","4","2 AA Batteries","","","","Battery:BatteryHolder_Keystone_2462_2xAA",""
 
