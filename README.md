@@ -16,4 +16,5 @@ The Raspberry Pi runs the motion detecting algorithm which scans every 4th frame
 - Case should be assembled with M3 heat inserts and M3 6mm bolts
 
 Onshape URL: https://cad.onshape.com/documents/b9b5efc3e67051879257010d/w/97c2399b92ab84e6df797935/e/d288fcda08a8171d0bd35e9a
+
 Thank you to hack club for keeping me motivated to finish this.
