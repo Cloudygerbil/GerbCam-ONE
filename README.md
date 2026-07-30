@@ -14,6 +14,7 @@ The Raspberry Pi runs the motion detecting algorithm which scans every 4th frame
 
 - Make sure to put in your site a password into ddns.sh as I obviously haven't added mine
 - Case should be assembled with M3 heat inserts and M3 6mm bolts
+- Configure cron to run startup.sh
 
 Onshape URL: https://cad.onshape.com/documents/b9b5efc3e67051879257010d/w/97c2399b92ab84e6df797935/e/d288fcda08a8171d0bd35e9a
 
