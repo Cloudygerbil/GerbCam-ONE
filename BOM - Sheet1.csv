@@ -1,0 +1,14 @@
+Material,Qty,Value
+PLA,200g,White and Orange
+LM2596S-5,1,none
+Inductor,1,33 µH
+Screw Terminal,1,Screw_Terminal_2_P5.00mm
+Diode,1,SR503
+Capacitor,1,220 µF
+Capacitor,1,680 µF
+AA Batteries holder,4,2 Batteries
+M3 Bolts,4,6 mm depth
+M3 Heat inserts,4,4 mm depth
+Webcam,1,USB connector
+Raspberry Pi Zero W,1,null
+AA Batteries holder,8,Should be rechargable
