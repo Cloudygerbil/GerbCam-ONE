@@ -6,6 +6,8 @@ This is A tool to keep an eye on my pet gerbils while I'm away on holiday. It is
 
 The hardware on this is a simple battery PCB which converts the 12V from 8 AA batteries to 5V for the Raspberry Pi. It could work with 3.7 V lithium-ion cells but is untested.
 
+<img width="872" height="562" alt="image" src="https://github.com/user-attachments/assets/024a25f1-4ee8-463d-b62b-fd61b5e7c149" />
+
 ## Software
 
 The Raspberry Pi runs the motion detecting algorithm which scans every 4th frame for movement and records when motion is found. The Pi also hosts the website
