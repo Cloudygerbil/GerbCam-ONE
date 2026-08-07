@@ -20,4 +20,21 @@ The Raspberry Pi runs the motion detecting algorithm which scans every 4th frame
 
 Onshape URL: https://cad.onshape.com/documents/b9b5efc3e67051879257010d/w/97c2399b92ab84e6df797935/e/d288fcda08a8171d0bd35e9a
 
+BOM:
+
+Material,Qty,Value
+PLA,200g,White and Orange
+LM2596S-5,1,none
+Inductor,1,33 µH
+Screw Terminal,1,Screw_Terminal_2_P5.00mm
+Diode,1,SR503
+Capacitor,1,220 µF
+Capacitor,1,680 µF
+AA Batteries holder,4,2 Batteries
+M3 Bolts,4,6 mm depth
+M3 Heat inserts,4,4 mm depth
+Webcam,1,USB connector
+Raspberry Pi Zero W,1,null
+AA Batteries holder,8,Should be rechargable
+
 Thank you to hack club for keeping me motivated to finish this.
