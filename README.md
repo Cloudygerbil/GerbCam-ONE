@@ -38,4 +38,5 @@ BOM:
 | Raspberry Pi Zero W | 1 | null |
 | AA Batteries holder | 8 | Should be rechargable |
 | USB Female to USB micro male converter | 1 | preferably low profile |
+
 Thank you to hack club for keeping me motivated to finish this.
